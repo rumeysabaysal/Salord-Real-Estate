@@ -1,5 +1,6 @@
 # Salord-Real-Estate
-![ekran](https://github.com/rumeysabaysal/Salord-Real-Estate/assets/147662934/60138c04-b30d-4b77-aa5f-5d60b97476f2)
+![ekran](https://github.com/rumeysabaysal/Salord-Real-Estate/assets/147662934/99655069-3978-4e3e-bec9-32ee11d2d3eb)
+
 
 # Açıklama
 
